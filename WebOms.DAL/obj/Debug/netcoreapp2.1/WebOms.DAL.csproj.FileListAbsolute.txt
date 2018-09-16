@@ -1,0 +1,14 @@
+C:\project\WebOms\WebOms.DAL\bin\Debug\netcoreapp2.1\WebOms.DAL.deps.json
+C:\project\WebOms\WebOms.DAL\bin\Debug\netcoreapp2.1\WebOms.DAL.dll
+C:\project\WebOms\WebOms.DAL\obj\Debug\netcoreapp2.1\WebOms.DAL.csproj.CoreCompileInputs.cache
+C:\project\WebOms\WebOms.DAL\obj\Debug\netcoreapp2.1\WebOms.DAL.AssemblyInfoInputs.cache
+C:\project\WebOms\WebOms.DAL\obj\Debug\netcoreapp2.1\WebOms.DAL.AssemblyInfo.cs
+C:\project\WebOms\WebOms.DAL\obj\Debug\netcoreapp2.1\WebOms.DAL.csprojAssemblyReference.cache
+C:\project\WebOms\WebOms.DAL\bin\Debug\netcoreapp2.1\WebOms.DAL.runtimeconfig.json
+C:\project\WebOms\WebOms.DAL\bin\Debug\netcoreapp2.1\WebOms.DAL.runtimeconfig.dev.json
+C:\project\WebOms\WebOms.DAL\bin\Debug\netcoreapp2.1\WebOms.DAL.pdb
+C:\project\WebOms\WebOms.DAL\bin\Debug\netcoreapp2.1\WebDomain.dll
+C:\project\WebOms\WebOms.DAL\bin\Debug\netcoreapp2.1\WebDomain.pdb
+C:\project\WebOms\WebOms.DAL\obj\Debug\netcoreapp2.1\WebOms.DAL.csproj.CopyComplete
+C:\project\WebOms\WebOms.DAL\obj\Debug\netcoreapp2.1\WebOms.DAL.dll
+C:\project\WebOms\WebOms.DAL\obj\Debug\netcoreapp2.1\WebOms.DAL.pdb

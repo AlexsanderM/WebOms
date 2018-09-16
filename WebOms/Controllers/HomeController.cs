@@ -4,15 +4,24 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using WebOms.DAL.Context;
 using WebOms.Models;
 
 namespace WebOms.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        WebOmsContext db;
+
+        public HomeController(WebOmsContext context)
         {
-            return View();
+            db = context;
+        }
+
+        public async Task<IActionResult> Index()
+        {
+            return View(await db.MedServices.ToListAsync());
         }
 
         public IActionResult About()

@@ -30,3 +30,7 @@ C:\project\WebOms\WebOms\obj\Debug\netcoreapp2.1\WebOms.Views.pdb
 C:\project\WebOms\WebOms\obj\Debug\netcoreapp2.1\WebOms.dll
 C:\project\WebOms\WebOms\obj\Debug\netcoreapp2.1\WebOms.pdb
 C:\project\WebOms\WebOms\obj\Debug\netcoreapp2.1\WebOms.csproj.CopyComplete
+C:\project\WebOms\WebOms\bin\Debug\netcoreapp2.1\WebDomain.dll
+C:\project\WebOms\WebOms\bin\Debug\netcoreapp2.1\WebOms.DAL.dll
+C:\project\WebOms\WebOms\bin\Debug\netcoreapp2.1\WebDomain.pdb
+C:\project\WebOms\WebOms\bin\Debug\netcoreapp2.1\WebOms.DAL.pdb

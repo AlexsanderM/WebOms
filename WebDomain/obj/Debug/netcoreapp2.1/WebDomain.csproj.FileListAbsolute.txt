@@ -1,0 +1,9 @@
+C:\project\WebOms\WebDomain\bin\Debug\netcoreapp2.1\WebDomain.deps.json
+C:\project\WebOms\WebDomain\bin\Debug\netcoreapp2.1\WebDomain.dll
+C:\project\WebOms\WebDomain\obj\Debug\netcoreapp2.1\WebDomain.csprojAssemblyReference.cache
+C:\project\WebOms\WebDomain\obj\Debug\netcoreapp2.1\WebDomain.csproj.CoreCompileInputs.cache
+C:\project\WebOms\WebDomain\obj\Debug\netcoreapp2.1\WebDomain.AssemblyInfoInputs.cache
+C:\project\WebOms\WebDomain\obj\Debug\netcoreapp2.1\WebDomain.AssemblyInfo.cs
+C:\project\WebOms\WebDomain\bin\Debug\netcoreapp2.1\WebDomain.pdb
+C:\project\WebOms\WebDomain\obj\Debug\netcoreapp2.1\WebDomain.dll
+C:\project\WebOms\WebDomain\obj\Debug\netcoreapp2.1\WebDomain.pdb
